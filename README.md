@@ -1,9 +1,9 @@
 # Dynamic Retail Dashboard
-
+---
 ## Overview
 
 The **Dynamic Retail Dashboard** is a comprehensive and interactive Excel-based tool designed to provide insights into retail operations. It leverages advanced Excel features such as Power Query for data transformation and dynamic visualizations to deliver actionable insights for decision-making. The dashboard connects seamlessly to GitHub-hosted data sources, making it scalable and adaptable for real-world use cases.
-
+---
 ###Significance
 Retail operations involve diverse data sources and complex relationships between orders, returns, and customer behavior. The Dynamic Retail Dashboard simplifies these complexities by:
 
@@ -11,7 +11,7 @@ Retail operations involve diverse data sources and complex relationships between
 - Providing insights into sales performance, profitability, and customer behavior.
 - Supporting decision-making with real-time dynamic visualizations.
 - Enhancing the ability to track and optimize key metrics such as sales trends, profit margins, and category performance.
-
+---
 
 ### Key Features:
 
@@ -156,7 +156,7 @@ Retail operations involve diverse data sources and complex relationships between
   
   ![image](https://github.com/user-attachments/assets/5293c346-3f80-4dd4-b6da-b692b2b7fb70)
 
-
+---
 ### 2. **Sales and Profit Analysis**:
 
 - **Objective:** Compare sales and profit across regions, categories, and time.
@@ -166,7 +166,7 @@ Retail operations involve diverse data sources and complex relationships between
   
   ![image](https://github.com/user-attachments/assets/ca4cea6d-5a51-4569-9c7c-944a597897bb)
 
-
+---
 ### 3. **Category-Wise Profit Analysis**:
 
 - **Objective:** Identify profitable and non-profitable categories.
@@ -176,7 +176,7 @@ Retail operations involve diverse data sources and complex relationships between
   
   ![image](https://github.com/user-attachments/assets/f29a36c4-6bb0-4daf-b3e0-5f1945c94439)
 
-
+---
 ### 4. **Segment-Wise Sales Share**:
 
 - **Objective:** Visualize sales contributions from different customer segments.
@@ -186,7 +186,7 @@ Retail operations involve diverse data sources and complex relationships between
   
   ![image](https://github.com/user-attachments/assets/959d3f5e-01ee-4f32-9fa2-d8cbeb8845d7)
 
-
+---
 ### 5. **Sales by Country**:
 
 - **Objective:** Highlight top-performing countries in terms of sales.
@@ -196,7 +196,7 @@ Retail operations involve diverse data sources and complex relationships between
   
   ![image](https://github.com/user-attachments/assets/c6bfd637-1ec3-4daf-8c12-c8422740a8f2)
 
-
+---
 ### 6. **Top 5 Sub-Categories**:
 
 - **Objective:** Determine the most successful sub-categories by sales and profit.
@@ -206,7 +206,7 @@ Retail operations involve diverse data sources and complex relationships between
   
   ![image](https://github.com/user-attachments/assets/803fc37f-204a-4213-9df4-0eb25edc3528)
 
-
+---
 ### 7. **Bottom 5 Sub-Categories**:
 
 - **Objective:** Identify the least performing sub-categories.
@@ -216,8 +216,7 @@ Retail operations involve diverse data sources and complex relationships between
   
    ![image](https://github.com/user-attachments/assets/d0dad0f6-4f06-46db-8e32-e42068298656)
 
-
-  
+---
 ### 8. Yearly Sales Trends
 - Objective: Visualize sales trends over the years to spot growth or decline patterns.
 - Approach: Aggregate sales data by year and plot it using a line chart.
@@ -232,6 +231,13 @@ Retail operations involve diverse data sources and complex relationships between
 - Return Analysis: Explore patterns in returned orders by region, category, or segment.
 - Customer Analysis: Identify top and bottom customers based on profitability.
 - Market Trends: Analyze market-wise performance over time.
+- 
+---
+### Visuals
+This repository includes:
+- Visual examples for each solved problem statement.
+- Snapshots of the final dashboard with all components.
+![image](https://github.com/user-attachments/assets/a3cc167d-1332-4580-b653-8326d8901f0d)
 
 
 
