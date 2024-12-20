@@ -214,7 +214,8 @@ Retail operations involve diverse data sources and complex relationships between
 - **Visual Required:** Bar or column charts.
 - **Hint:** Highlight negative trends using conditional formatting.
   
-    ![image](https://github.com/user-attachments/assets/6a80e932-2083-4617-8097-01635f2c7425)
+   ![image](https://github.com/user-attachments/assets/d0dad0f6-4f06-46db-8e32-e42068298656)
+
 
   
 ### 8. Yearly Sales Trends
