@@ -4,7 +4,7 @@
 
 The **Dynamic Retail Dashboard** is a comprehensive and interactive Excel-based tool designed to provide insights into retail operations. It leverages advanced Excel features such as Power Query for data transformation and dynamic visualizations to deliver actionable insights for decision-making. The dashboard connects seamlessly to GitHub-hosted data sources, making it scalable and adaptable for real-world use cases.
 
-##Significance
+###Significance
 Retail operations involve diverse data sources and complex relationships between orders, returns, and customer behavior. The Dynamic Retail Dashboard simplifies these complexities by:
 
 - Consolidating multiple datasets into a unified interface.
@@ -153,6 +153,8 @@ Retail operations involve diverse data sources and complex relationships between
 - **Approach:** Calculate metrics such as Total Sales, Profit, Quantity, Number of Orders, and Profit Margin using Excel formulas and Power Query.
 - **Visual Required:** Card-style KPI visualizations.
 - **Hint:** Use `SUM`, `COUNT`, and custom measures in Power Query or PivotTables for calculations.
+  ![image](https://github.com/user-attachments/assets/5293c346-3f80-4dd4-b6da-b692b2b7fb70)
+
 
 ### 2. **Sales and Profit Analysis**:
 
@@ -160,6 +162,8 @@ Retail operations involve diverse data sources and complex relationships between
 - **Approach:** Create a PivotTable or PivotChart to analyze trends.
 - **Visual Required:** Line or bar charts.
 - **Hint:** Use slicers to drill down into specific time periods or regions.
+  ![image](https://github.com/user-attachments/assets/ca4cea6d-5a51-4569-9c7c-944a597897bb)
+
 
 ### 3. **Category-Wise Profit Analysis**:
 
@@ -167,6 +171,8 @@ Retail operations involve diverse data sources and complex relationships between
 - **Approach:** Group data by categories and calculate total profit per category.
 - **Visual Required:** Column or pie charts.
 - **Hint:** Sort categories by profit to highlight trends.
+  ![image](https://github.com/user-attachments/assets/f29a36c4-6bb0-4daf-b3e0-5f1945c94439)
+
 
 ### 4. **Segment-Wise Sales Share**:
 
@@ -174,6 +180,8 @@ Retail operations involve diverse data sources and complex relationships between
 - **Approach:** Calculate the percentage contribution of each segment to total sales.
 - **Visual Required:** Pie or donut charts.
 - **Hint:** Use `SUMIF` or PivotTables for segment-specific calculations.
+  ![image](https://github.com/user-attachments/assets/959d3f5e-01ee-4f32-9fa2-d8cbeb8845d7)
+
 
 ### 5. **Sales by Country**:
 
@@ -181,6 +189,8 @@ Retail operations involve diverse data sources and complex relationships between
 - **Approach:** Group data by country and aggregate sales.
 - **Visual Required:** Map charts or column charts.
 - **Hint:** Utilize Power Query for grouping and aggregation.
+  ![image](https://github.com/user-attachments/assets/c6bfd637-1ec3-4daf-8c12-c8422740a8f2)
+
 
 ### 6. **Top 5 Sub-Categories**:
 
@@ -188,6 +198,8 @@ Retail operations involve diverse data sources and complex relationships between
 - **Approach:** Sort data by sales or profit and select the top 5 entries.
 - **Visual Required:** Bar or column charts.
 - **Hint:** Use filters or rankings in PivotTables.
+  ![image](https://github.com/user-attachments/assets/803fc37f-204a-4213-9df4-0eb25edc3528)
+
 
 ### 7. **Bottom 5 Sub-Categories**:
 
@@ -195,12 +207,16 @@ Retail operations involve diverse data sources and complex relationships between
 - **Approach:** Sort data in ascending order by sales or profit and select the bottom 5 entries.
 - **Visual Required:** Bar or column charts.
 - **Hint:** Highlight negative trends using conditional formatting.
+    ![image](https://github.com/user-attachments/assets/6a80e932-2083-4617-8097-01635f2c7425)
 
+  
 ### 8. Yearly Sales Trends
 - Objective: Visualize sales trends over the years to spot growth or decline patterns.
 - Approach: Aggregate sales data by year and plot it using a line chart.
 - Visual: Line chart with markers for yearly sales values.
 - Hint: Overlay profit trends on the same chart for a dual-axis comparison of sales and profitability.
+  ![image](https://github.com/user-attachments/assets/d6a89241-9d92-4d5d-bdb8-14a4dbf189d0)
+
 
 ---
 ### Future Scope
