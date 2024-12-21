@@ -232,7 +232,6 @@ Retail operations involve diverse data sources and complex relationships between
 - Return Analysis: Explore patterns in returned orders by region, category, or segment.
 - Customer Analysis: Identify top and bottom customers based on profitability.
 - Market Trends: Analyze market-wise performance over time.
-- 
 ---
 ### Visuals
 This repository includes:
